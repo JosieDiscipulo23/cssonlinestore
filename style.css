@@ -1,0 +1,135 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #f4f2c3;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    color: #e3bb1d;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 20px;
+}
+figure img{
+    justify-content:center ;
+
+}
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #deb72b;
+}
+
+/* Main content styling */
+main {
+    width: 80%;
+    margin: 20px auto;
+}
+
+/* Article styling */
+article {
+    margin-bottom: 40px;
+}
+
+h2 {
+    
+    font-size: bold;
+    color: #121111;
+    text-align: center;
+    
+}
+
+
+h3{
+    font-size: bold;
+    color: #121111;
+    text-align: center;
+    
+}
+
+h1{
+    font-size: bold;
+    color: #121111;
+    text-align: center;
+  }  
+  figure image{
+
+justify-content: center;
+
+  }
+
+figcaption {
+    padding: 20px;
+    text-align: center;
+}
+
+figcaption p {
+    margin-top: 10px;
+}
+
+/* Media queries for responsiveness */
+
+    section h3 {
+        color: #333;
+    }
+
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Back to top link styling */
+footer a {
+    color: #deb72b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Contact section styling */
+article#contact {
+    text-align: center;
+}
+
+article#contact ul {
+    list-style: none;
+    padding: 0;
+}
+
+article#contact li {
+    margin-bottom: 10px;
+    color: #333;
+}
+
+article#contact a {
+    color: #333;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+}
