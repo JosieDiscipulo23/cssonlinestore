@@ -9,9 +9,9 @@ body {
 
 }
 
-/* Header styling */
+
 header {
-    background-color: #333;
+    background-color: #447c16;
     color: #e3bb1d;
     padding: 20px 0;
     text-align: center;
@@ -41,13 +41,13 @@ nav a:hover {
     color: #deb72b;
 }
 
-/* Main content styling */
+
 main {
     width: 80%;
     margin: 20px auto;
 }
 
-/* Article styling */
+
 article {
     margin-bottom: 40px;
 }
@@ -88,29 +88,28 @@ figcaption p {
     margin-top: 10px;
 }
 
-/* Media queries for responsiveness */
+
 
     section h3 {
         color: #333;
     }
 
 
-/* Footer styling */
+
 footer {
-    background-color: #333;
+    background-color: #447c16;
     color: #fff;
     padding: 20px 0;
     text-align: center;
 }
 
-/* Back to top link styling */
 footer a {
     color: #deb72b;
     text-decoration: none;
     font-weight: bold;
 }
 
-/* Contact section styling */
+
 article#contact {
     text-align: center;
 }
